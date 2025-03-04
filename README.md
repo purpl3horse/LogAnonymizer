@@ -28,10 +28,10 @@ The **Log Anonymizer** is a Python tool designed to anonymize log files before s
 
 2. **Usage**
 
-  ```bash
-  python3 -m venv venv
-  source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-  ```
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+   ```
 
 How It Works
 
