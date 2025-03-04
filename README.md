@@ -22,7 +22,7 @@ The **Log Anonymizer** is a Python tool designed to anonymize log files before s
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/log-anonymizer.git
+   git clone https://github.com/purpl3horse/LogAnonymizer
    cd log-anonymizer
    ```
 
